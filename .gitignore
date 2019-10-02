@@ -1,1 +1,15 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Next.js generated files
+/.next
+
+# dependencies
 /node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/.next
